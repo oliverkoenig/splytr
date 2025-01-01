@@ -1,2 +1,2 @@
 # splytr
-Spotify Play List Yout Tube scrapeR
+Spotify Play List You Tube scrapeR
